@@ -13,7 +13,7 @@ title                    : "Yixian Zhang"
 title_separator          : "-"
 name                     : &name "Yixian Zhang"
 description              : &description "A brief intro for Yixian Zhang"
-url                      : "https://elessar123.github.io/Yixian.github.io/"
+url                      : https://elessar123.github.io/Yixian.github.io/
 baseurl                  : /
 repository               : /
 
