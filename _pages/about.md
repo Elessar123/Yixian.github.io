@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a first-year graduate student from Tsinghua Shenzhen International Graduate School (SIGS), [Tsinghua University](https://www.tsinghua.edu.cn). My research interests include Reinforcement Learning, Optimization, and Robotics.
 
-I am very fortunate to be advised by [Prof. Wenbo Ding] of [SSR Lab](https://ssr-group.net/), Tsinghua University.
+I am very fortunate to be advised by Prof. Wenbo Ding of [SSR Lab](https://ssr-group.net/), Tsinghua University.
 
 
 [Email](yixian-z24@mails.tsinghua.edu.cn) / [Email](yixian-z24@mails.tsinghua.edu.cn)
