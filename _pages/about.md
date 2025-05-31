@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I'm a first-year graduate student from Tsinghua Shenzhen International Graduate School (SIGS), [Tsinghua University](https://www.tsinghua.edu.cn). My research interests include Reinforcement Learning, Optimization, and Robotics.
+
+I am very fortunate to be advised by [Prof. Wenbo Ding] of [SSR Lab](https://ssr-group.net/), Tsinghua University.
+
+
+[Email](yixian-z24@mails.tsinghua.edu.cn) / [Email](yixian-z24@mails.tsinghua.edu.cn)
 
 A data-driven personal website
 ======
