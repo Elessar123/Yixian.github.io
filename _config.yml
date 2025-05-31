@@ -13,9 +13,9 @@ title                    : "Yixian Zhang"
 title_separator          : "-"
 name                     : &name "Yixian Zhang"
 description              : &description "A brief intro for Yixian Zhang"
-url                      : https://elessar123.github.io/Yixian.github.io/
-baseurl                  : /
-repository               : /
+url                      : "https://elessar123.github.io"
+baseurl                  : "/Yixian.github.io"
+repository               : "elessar123/Yixian.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,7 +28,7 @@ author:
   bio              : "Past ages turn, fates wax and wane; True heart guides, conscience sustains."
   location         : "China"
   employer         : "Tsinghua University"
-  uri              : /
+  uri              : ""
   email            : "yixian-z24@mails.tsinghua.edu.cn" 
 
   # Academic websites
